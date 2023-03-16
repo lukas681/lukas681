@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukas681
 - 👀 Algorithms and Parametrized Complexity, PLM Consulting and Music
-- 💞️ PLM Consultan, Algorithmic Engineering
+- 💞️ PLM Consultant, Starting Ph.D. in Differential Privacy in June
 - 📫 www.lukasretschmeier.de
 
 <!---
