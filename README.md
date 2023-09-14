@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lukas681
-- 👀 Algorithms and Parametrized Complexity and Music
 - Ph.D. in Differential Privacy in June
 - 📫 www.lukasretschmeier.de
 
