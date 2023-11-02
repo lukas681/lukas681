@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lukas681
-- Ph.D. in Differential Privacy in June
+- PhD Student in Differential Privacy
 - 📫 www.lukasretschmeier.de
 
 <!---
